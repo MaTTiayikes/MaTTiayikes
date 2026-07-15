@@ -1,5 +1,5 @@
 
-#Hi there👋,
+# Hi there👋,
 This repository serves as the central hub for my academic and research journey in Computer Science. My work spans from low-level systems architecture to theoretical computational models.
 
 ## 🎓 Research Interests
