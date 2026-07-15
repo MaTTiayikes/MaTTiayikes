@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**MaTTiayikes/MaTTiayikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there👋,
+This repository serves as the central hub for my academic and research journey in Computer Science. My work spans from low-level systems architecture to theoretical computational models.
 
-Here are some ideas to get you started:
+## 🎓 Research Interests
+I am deeply passionate about the bridge between theoretical foundations and high-performance engineering:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Quantum Computing:** Investigating quantum algorithms and their complexity bounds.
+* **Optimization Theory:** Developing efficient strategies for NP-hard problems.
+* **Graph Theory:** Analyzing complex structures and network dynamics.
+* **Computational Complexity:** Exploring the fundamental limits of computation.
+
+## 💻 Technical Skills
+
+| Core Competencies | Technologies |
+| :--- | :--- |
+| **Languages** | Java, C, C++, Assembly (RISC-V) |
+| **Systems & OS** | Linux, macOS, Windows (Kernel & Systems programming) |
+| **Databases** | SQL, Relational Modeling |
+| **Theory & Logic** | Algorithm Design, Data Structures, Formal Languages |
+| **Tooling** | Git, Shell Scripting, Compilers, Debugging, Docker |
+
+---
+*Maintained by MaTTiayikes.*
