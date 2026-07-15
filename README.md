@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Mattia
 This repository serves as the central hub for my academic and research journey in Computer Science. My work spans from low-level systems architecture to theoretical computational models.
 
-## 🎓 Research Interests
+## ✨ Interests
 I am deeply passionate about the bridge between theoretical foundations and high-performance engineering:
 
 * **Quantum Computing:** Investigating quantum algorithms and their complexity bounds.
